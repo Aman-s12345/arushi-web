@@ -57,10 +57,9 @@ p{
 }
 h1{
 
-
   margin: 0 auto;
     margin-top: 25px ;
--family: 'Sacramento', cursive;
+font-family: 'Sacramento', cursive;
   font-size: 5.256rem;
     color: #66BFBF;
 
